@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola josé
+=======
+hola julian
+>>>>>>> bb2aaa42e0fd1ef96d3e36a34434ee0c01f2f8d6
